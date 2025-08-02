@@ -8,7 +8,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  //  base: '/NODS_ORGANIZATION_VUE/', 
+   base: '/NODS_ORGANIZATION_VUE/', 
    // ضعي هنا اسم الريبو
   plugins: [
     

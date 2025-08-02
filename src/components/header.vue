@@ -66,7 +66,8 @@ const navLinks = [
   { label: 'من نحن؟', to: '/about' },
   { label: 'مشاريعنا', to: '/projects' },
   { label: 'آخر الأخبار', to: '/news' },
-  { label: 'تواصل معنا', to: '/contact' },
+  { label: 'تواصل معنا', to: '/Contact' },
+   { label: 'لوحة التحكم ', to: '/Dashboard' },
 ]
 
 const toggleMenu = () => {
