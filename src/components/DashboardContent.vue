@@ -1,6 +1,6 @@
 <!-- components/DashboardContent.vue -->
 <template>
-  <section class="space-y-6" dir="rtl">
+
     <!-- المشاريع -->
     <div id="projects" class="bg-btnbg shadow rounded p-4">
       <h3 class="text-lg font-semibold mb-4">أحدث المشاريع</h3>
@@ -36,34 +36,4 @@
       </table>
     </div>
 
-    <!-- إدارة المشاريع -->
-    <div class="bg-btnbg shadow rounded p-4">
-      <h3 class="text-lg font-semibold mb-4">إدارة المشاريع</h3>
-      <ul class="space-y-2">
-        <li class="border-b py-2">تمكين المرأة - نشط</li>
-        <li class="border-b py-2">مكافحة الأمية - معلّق</li>
-        <li class="border-b py-2">رعاية الأيتام - منتهي</li>
-      </ul>
-    </div>
-
-    <!-- الرسائل -->
-    <div id="messages" class="bg-btnbg shadow rounded p-4">
-      <h3 class="text-lg font-semibold mb-4">الرسائل الأخيرة</h3>
-      <ul class="space-y-2">
-        <li class="border-b py-2">رسالة من أحمد - استفسار حول التبرع</li>
-        <li class="border-b py-2">اقتراح من سلمى - مشروع جديد</li>
-        <li class="border-b py-2">شكوى من فاطمة - تأخير في الرد</li>
-      </ul>
-    </div>
-
-    <!-- المستخدمين -->
-    <div id="users" class="bg-btnbg shadow rounded p-4">
-      <h3 class="text-lg font-semibold mb-4">إدارة المستخدمين</h3>
-      <ul class="space-y-2">
-        <li class="border-b py-2">أحمد - admin</li>
-        <li class="border-b py-2">سلمى - محرر</li>
-        <li class="border-b py-2">فاطمة - زائر</li>
-      </ul>
-    </div>
-  </section>
 </template>

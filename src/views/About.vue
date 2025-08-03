@@ -42,17 +42,17 @@
       <div class="team-grid">
         <div class="team-member">
           <!-- <img src="@/assets/image/team1.jpg" alt="أ. محمد العريقي" /> -->
-          <h4 class="text-center font-bold mt-4 text-center">أ. محمد العريقي</h4>
+          <h4 class="text-center font-bold mt-4">أ. محمد العريقي</h4>
           <p>المدير التنفيذي - خبير تنمية مجتمعية بخبرة 15 سنة.</p>
         </div>
         <div class="team-member">
           <!-- <img src="@/assets/image/team2.jpg" alt="م. ريم العواضي" /> -->
-          <h4 class="text-center font-bold mt-4 text-center">م. ريم العواضي</h4>
+          <h4 class="text-center font-bold mt-4">م. ريم العواضي</h4>
           <p>مديرة المشاريع - متخصصة في إدارة المشاريع التنموية.</p>
         </div>
         <div class="team-member">
           <!-- <img src="@/assets/image/team3.jpg" alt="د. خالد الصياد" /> -->
-          <h4 class="text-center font-bold mt-4 text-center">د. خالد الصياد</h4>
+          <h4 class="text-center font-bold mt-4">د. خالد الصياد</h4>
           <p>استشاري الصحة المجتمعية - خبرة في دعم المبادرات الصحية.</p>
         </div>
        <button
@@ -65,15 +65,15 @@
     </section>
     <section class="section1 py-12 px-4 pt-20 bg-btnbg">
   <div class="max-w-4xl mx-auto">
-    <h2 class="text-2xl font-bold mb-4 text-center">تاريخنا</h2>
-    <h1> 1997</h1>
+    <h1 class="text-2xl font-bold mb-4 text-center">تاريخنا</h1>
+    <h2 class="text-center font-bold mt-4" > 1997</h2>
     <p class="leading-loose text-justify">
-تأسيس المنظمة وبداية الأنشطة المجتمعية.
+.تأسيس المنظمة وبداية الأنشطة المجتمعية
 
      </p>
-     <h1> 2006</h1>
+     <h2 class="text-center font-bold mt-4"> 2006</h2>
     <p class="leading-loose text-justify">
-توسيع البرامج وتوقيع شراكات دولية.
+.توسيع البرامج وتوقيع شراكات دولية
 
 
      </p>
