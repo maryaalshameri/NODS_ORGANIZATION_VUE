@@ -28,35 +28,35 @@
   <div class="max-w-4xl mx-auto">
     <h1 class="text-2xl font-bold mb-4 text-center">الأهداف</h1>
     <ul class="leading-loose text-center">
-        <li>تمكين المرأة والشباب.</li>
-        <li>تعزيز التعليم والرعاية الصحية.</li>
-        <li>مكافحة الفقر والبطالة.
+        <li class="block">.تمكين المرأة والشباب</li>
+        <li class="block">.تعزيز التعليم والرعاية الصحية</li>
+        <li class="block">.مكافحة الفقر والبطالة
 </li>
     </ul>
   </div>
 </section>
 
 <section class="section1">
-      <h2>فريقنا</h2>
+     <h1 class="text-2xl font-bold mb-4 text-center">فريقنا</h1>
       
       <div class="team-grid">
         <div class="team-member">
           <!-- <img src="@/assets/image/team1.jpg" alt="أ. محمد العريقي" /> -->
-          <h4>أ. محمد العريقي</h4>
+          <h4 class="text-center font-bold mt-4 text-center">أ. محمد العريقي</h4>
           <p>المدير التنفيذي - خبير تنمية مجتمعية بخبرة 15 سنة.</p>
         </div>
         <div class="team-member">
           <!-- <img src="@/assets/image/team2.jpg" alt="م. ريم العواضي" /> -->
-          <h4>م. ريم العواضي</h4>
+          <h4 class="text-center font-bold mt-4 text-center">م. ريم العواضي</h4>
           <p>مديرة المشاريع - متخصصة في إدارة المشاريع التنموية.</p>
         </div>
         <div class="team-member">
           <!-- <img src="@/assets/image/team3.jpg" alt="د. خالد الصياد" /> -->
-          <h4>د. خالد الصياد</h4>
+          <h4 class="text-center font-bold mt-4 text-center">د. خالد الصياد</h4>
           <p>استشاري الصحة المجتمعية - خبرة في دعم المبادرات الصحية.</p>
         </div>
        <button
-            class="bg-accent text-bg hover:bg-highlight py-2 px-6 rounded-md font-semibold transition"
+            class="mt-6 bg-accent text-center text-bg hover:bg-highlight py-2 px-6 rounded-md font-semibold transition"
            id="openJoinModal">انضم إلينا</button>
        <p id="alreadyJoinedMessage" style="display: none; color: green; font-weight: bold;">
   لقد سجلت مسبقًا، شكرًا لانضمامك.
